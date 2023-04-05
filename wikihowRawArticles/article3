@@ -1,0 +1,49 @@
+How to Solve a Rubik's Cube in 20 Moves
+
+{{nfd|acc|dup|date=2023-04-04}}Want to become a master of the Rubik’s Cube? This classic puzzle is known for being tough to solve, but it’s entirely possible—in more than one way! If you want to “wow” your friends by cracking this puzzle fast, you’ve come to the right place. Read on for step-by-step instructions to solve a Rubik’s Cube in 20 simple moves.
+[[Category:Rubik's Cube]]
+==Steps==
+
+===Solving a Rubik’s Cube in 20 Moves===
+#Give the cube’s top layer a single clockwise turn. Start from an already-solved cube (as they usually are when they come out of the package) or one that is already mixed up.<ref>https://alg.cubing.net/?type=alg&view=playback&alg=U_R2_F_B_R_B2_R_U2_L_B2_R_U-_D-_R2_F_R-_L_B2_U2_F2</ref>[[Image:Solve a Rubik's Cube in 20 Moves Step 1.jpg|center]]
+#Spin the right layer 2 times clockwise. When solving a Rubik’s Cube, the directions (right, left, front, back) are relative to how you hold the cube. So, “right” means whatever layer is currently on the right side of the front of the cube.[[Image:Solve a Rubik's Cube in 20 Moves Step 2 Version 2.jpg|center]]
+#Turn the front side (the side currently facing you) clockwise once.[[Image:Solve a Rubik's Cube in 20 Moves Step 3.jpg|center]]
+#Rotate the back side once clockwise. The back side is whichever layer is opposite the front.[[Image:Solve a Rubik's Cube in 20 Moves Step 4.jpg|center]]
+#Give the right side of the cube 1 clockwise turn.[[Image:Solve a Rubik's Cube in 20 Moves Step 5.jpg|center]]
+#Spin the back layer 2 times clockwise. Ensure the "back" layer stays the back throughout the process rather than turning the entire cube to make a move. It’s easier to stay oriented when the cube faces the same direction the whole time.[[Image:Solve a Rubik's Cube in 20 Moves Step 6 Version 2.jpg|center]]
+#Rotate the right side of the cube once clockwise.[[Image:Solve a Rubik's Cube in 20 Moves Step 7.jpg|center]]
+#Give the top layer of the Rubik’s Cube 2 clockwise turns.[[Image:Solve a Rubik's Cube in 20 Moves Step 8 Version 2.jpg|center]]
+#Turn the left side of the Rubik’s Cube once clockwise. This is whichever side is opposite the right from where you’re holding the cube.[[Image:Solve a Rubik's Cube in 20 Moves Step 9.jpg|center]]
+#Spin the cube’s back layer 2 times clockwise.[[Image:Solve a Rubik's Cube in 20 Moves Step 10 Version 2.jpg|center]]
+#Rotate the right side of the cube once clockwise.[[Image:Solve a Rubik's Cube in 20 Moves Step 11.jpg|center]]
+#Give the top side a single counterclockwise spin.[[Image:Solve a Rubik's Cube in 20 Moves Step 12.jpg|center]]
+#Turn the bottom layer (the side opposite the top) once counterclockwise.[[Image:Solve a Rubik's Cube in 20 Moves Step 13.jpg|center]]
+#Rotate the right side once again with 2 clockwise spins.[[Image:Solve a Rubik's Cube in 20 Moves Step 14 Version 2.jpg|center]]
+#Spine the front side of the cube once clockwise. By this point, you’ll notice that the colors on each side of the cube are starting to match up![[Image:Solve a Rubik's Cube in 20 Moves Step 15.jpg|center]]
+#Give the cube’s right side a single counterclockwise spin.[[Image:Solve a Rubik's Cube in 20 Moves Step 16.jpg|center]]
+#Turn the left layer clockwise once again.[[Image:Solve a Rubik's Cube in 20 Moves Step 17.jpg|center]]
+#Give the back layer of the cube 2 clockwise turns.[[Image:Solve a Rubik's Cube in 20 Moves Step 18 Version 2.jpg|center]]
+#Rotate the cube’s top layer with 2 clockwise spins.[[Image:Solve a Rubik's Cube in 20 Moves Step 19 Version 2.jpg|center]]
+#Finish your Rubik’s Cube by giving the front side 2 clockwise turns. With that, you’ve solved a Rubik’s Cube in 20 moves![[Image:Solve a Rubik's Cube in 20 Moves Step 20 Version 2.jpg|center]]
+
+===Background and Tricks===
+#Solve any 3x3 Rubik’s Cube using the Super-Flip method. The steps you followed above were from an algorithm called the “Super-Flip,” which solves the puzzle while flipping the position of each color when finished. There’s more than one way to solve a Rubik’s cube, but the Super-Flip allows you to solve it in exactly 20 steps!<ref>https://rubikscubers.wordpress.com/2017/04/08/rubiks-cube-patterns/</ref>[[Image:Solve a Rubik's Cube in 20 Moves Step 21.jpg|center]]
+#Use “HTM” or “half-turn metric” with this Super-Flip algorithm. There are also different metrics for solving Rubik’s Cubes, but the one you’ll need for this solution is HTM. With the half-turn metric, any turn of any face, by any angle, counts as 1 turn.<ref>https://www.speedsolving.com/wiki/index.php/Metric</ref>[[Image:Solve a Rubik's Cube in 20 Moves Step 22.jpg|center]]
+#*This metric is different from others mainly because “slice” moves (any turn of a middle layer on the cube) count as 2 turns, and half-turns count as 1 move.
+#God’s Number is 20 when you use HTM to solve a Rubik’s Cube. “God’s Number” is a term that refers to the greatest number of moves that a puzzle can be from its solved state. So, when we say the number is 20 for HTM, it means that any Rubik’s Cube is 20 moves away from being solved while using the half-turn metric.<ref>https://www.cs.brandeis.edu/~storer/JimPuzzles/RUBIK/Rubik3x3x3/READING/GodsNumberIs20.pdf</ref>[[Image:Solve a Rubik's Cube in 20 Moves Step 23.jpg|center]]
+#*Keep in mind that God’s Number is only 20 for standard 3x3x3 Rubik’s Cubes. For others, God’s Number varies—and in some cases, it hasn’t been found yet.
+#Memorize clockwise and counterclockwise by visualizing a clock. If you get confused about which way to turn your cube at any time, picture an analog clock's moving hands. “Clockwise” means turning in the same direction as a clock does, and “counterclockwise” means going in the opposite direction.[[Image:Solve a Rubik's Cube in 20 Moves Step 24.jpg|center]]
+#Learn the solution algorithm in Singmaster notation. Solution algorithms for the Rubik’s cube are often written in Singmaster notation, a code where each letter or symbol denotes a move on the Rubik’s Cube. The Singmaster code for the solution above is U R2 F B R B2 R U2 L B2 R U' D' R2 F R' L B2 U2 F2.<ref>https://rubikscubers.wordpress.com/2017/04/08/rubiks-cube-patterns/</ref> Here’s what that means:[[Image:Solve a Rubik's Cube in 20 Moves Step 25.jpg|center]]
+#*'''R (Right)''': The side facing to the right.
+#*'''L (Left)''': The side facing to the left.
+#*'''U (Up)''': The side facing up on the cube.
+#*'''D (Down)''': The side facing downwards.
+#*'''F (Front)''': The side facing you.
+#*'''B (Back)''': The side facing away from you.
+#*Apostrophes denote a counterclockwise turn, so a counterclockwise right spin is R’.
+#*2 turns of the cube (or 180-degree spins) are denoted with “2,” so turning the left side twice would look like F2.
+
+==References==
+{{reflist}}
+
+__METHODS__
